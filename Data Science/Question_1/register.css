@@ -1,0 +1,46 @@
+body{
+    background: url(./DG.png) no-repeat fixed;
+    
+}
+
+form{
+    color:#080808;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: transparent;
+    padding: 40px;
+    margin-top: 70px;
+    margin-left: 900px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input{
+    width: 96%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+
+}
+
+button {
+    background-color: #05d58c;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: #00ffa6;
+}
